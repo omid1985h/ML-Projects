@@ -1,3 +1,21 @@
 [submodule "health-heart_disease"]
 	path = health-heart_disease
 	url = https://github.com/omid1985h/health-heart_disease.git
+[submodule "Capstone-Project"]
+	path = Capstone-Project
+	url = https://github.com/omid1985h/Capstone-Project.git
+[submodule "Kyphosis"]
+	path = Kyphosis
+	url = https://github.com/omid1985h/Kyphosis.git
+[submodule "Classification-of-Iris-Flower"]
+	path = Classification-of-Iris-Flower
+	url = https://github.com/omid1985h/Classification-of-Iris-Flower.git
+[submodule "Health-Breast-Cancer-Prediction"]
+	path = Health-Breast-Cancer-Prediction
+	url = https://github.com/omid1985h/Health-Breast-Cancer-Prediction.git
+[submodule "Endometriosis-case-study"]
+	path = Endometriosis-case-study
+	url = https://github.com/omid1985h/Endometriosis-case-study.git
+[submodule "Sleep_Apnea"]
+	path = Sleep_Apnea
+	url = https://github.com/omid1985h/Sleep_Apnea.git
