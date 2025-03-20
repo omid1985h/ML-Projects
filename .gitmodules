@@ -1,6 +1,6 @@
 [submodule "health-heart_disease"]
 	path = health-heart_disease
-	url = https://github.com/omid1985h/health-heart_disease.git
+	url = https://github.com/omid1985h/ML-Projects/health-heart_disease.git
 [submodule "Capstone-Project"]
 	path = Capstone-Project
 	url = https://github.com/omid1985h/Capstone-Project.git
@@ -19,3 +19,15 @@
 [submodule "Sleep_Apnea"]
 	path = Sleep_Apnea
 	url = https://github.com/omid1985h/Sleep_Apnea.git
+[submodule "submodules/Regression"]
+	path = submodules/Regression
+	url = https://github.com/omid1985h/Regression.git
+[submodule "submodules/NLP"]
+	path = submodules/NLP
+	url = https://github.com/omid1985h/NLP.git
+[submodule "submodules/Time-Series"]
+	path = submodules/Time-Series
+	url = https://github.com/omid1985h/Time-Series.git
+[submodule "submodules/Unsupervised_Learning"]
+	path = submodules/Unsupervised_Learning
+	url = https://github.com/omid1985h/Unsupervised_Learning.git
