@@ -1,6 +1,6 @@
 [submodule "health-heart_disease"]
 	path = health-heart_disease
-	url = https://github.com/omid1985h/ML-Projects/health-heart_disease.git
+	url = https://github.com/omid1985h/ML-Projects.git
 [submodule "Capstone-Project"]
 	path = Capstone-Project
 	url = https://github.com/omid1985h/Capstone-Project.git
