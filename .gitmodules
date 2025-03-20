@@ -19,18 +19,3 @@
 [submodule "Sleep_Apnea"]
 	path = Sleep_Apnea
 	url = https://github.com/omid1985h/Sleep_Apnea.git
-[submodule "submodules/Classification"]
-	path = submodules/Classification
-	url = https://github.com/omid1985h/Classification.git
-[submodule "submodules/Regression"]
-	path = submodules/Regression
-	url = https://github.com/omid1985h/Regression.git
-[submodule "submodules/Unsupervised_Learning"]
-	path = submodules/Unsupervised_Learning
-	url = https://github.com/omid1985h/Unsupervised_Learning.git
-[submodule "submodules/NLP"]
-	path = submodules/NLP
-	url = https://github.com/omid1985h/NLP.git
-[submodule "submodules/Time-Series"]
-	path = submodules/Time-Series
-	url = https://github.com/omid1985h/Time-Series.git
